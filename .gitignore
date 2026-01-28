@@ -1,0 +1,8 @@
+venv/
+.cache/
+data/raw/
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+.env
